@@ -1,28 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sandesh makhija</h1>
-<h3 align="center">A passionate Computer Science student from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-mak&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-mak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandesh-mak" alt="sandesh-mak" /></a> </p>
-
-- 🌱 I’m currently learning **DSA in java**
-
-- 📫 How to reach me **sandesh6666kk@gmail.com**
-
-- ⚡ Fun fact **I make reels on instagram**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandeshmakhija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeshmakhija" height="30" width="40" /></a>
-<a href="https://instagram.com/sandesh_makhija4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh_makhija4" height="30" width="40" /></a>
-<a href="https://www.behance.net/sandeshmakhija4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sandeshmakhija4" height="30" width="40" /></a>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey there 👋, I'm Sandesh makhija</h1>
+<h3 align="center">💻 CS Student | ⚙️ Java & C++ Developer | 🧠 AI/ML Explorer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandesh-mak&show_icons=true&locale=en&layout=compact" alt="sandesh-mak" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandesh-mak&show_icons=true&locale=en" alt="sandesh-mak" /></p>
+### ✨ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-mak&" alt="sandesh-mak" /></p>
+- 🎓 Pursuing **Bachelors in Computer Science**
+- 💡 Passionate about **problem-solving**, **OOP**, and **software development**
+- 🧠 Learning **AI/ML**, building **Java Desktop Apps**
+- 🎮 I’ve built a **Memory Card Game** & a **Medical Inventory System**
+- 🎨 I love combining tech & design — code that looks good too!
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,sqlite,git,vscode" />
+</p>
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🧠 Memory Card Game](https://github.com/your-username/memory-card-game) | A Java Swing-based game to test memory skills | `Java`, `Swing` |
+| [💊 Medicine Inventory System](https://github.com/your-username/medicine-app) | Desktop software for medical wholesalers | `Java`, `SQLite` |
+| [🎨 Design Portfolio](https://github.com/your-username/design-showcase) | My graphic and UI design work | `Figma`, `Illustrator` |
+
+---
+
+
+---
+
+### 🧠 Interests & Goals
+
+- 🤖 AI/ML using Python  
+- 🖥️ Building Desktop Apps  
+- 🔐 Learning how to secure my software  
+- 🌍 Dream: Build software that makes real-world impact
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:sandesh6666kk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sandesh-makhija-920685284/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https:www.behance.net/sandeshmakhija4"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views" />
+</p>
