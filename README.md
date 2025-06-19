@@ -41,8 +41,7 @@
 ### 🧠 Interests & Goals
 
 - 🤖 AI/ML using Python  
-- 🖥️ Building Desktop Apps  
-- 🔐 Learning how to secure my software  
+- 🖥️ Building Desktop Apps   
 - 🌍 Dream: Build software that makes real-world impact
 
 ---
