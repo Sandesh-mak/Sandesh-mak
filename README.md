@@ -13,7 +13,7 @@
 - 🎓 Pursuing **Bachelors in Computer Science**
 - 💡 Passionate about **problem-solving**, **OOP**, and **software development**
 - 🧠 Learning **AI/ML**, building **Java Desktop Apps**
-- 🎮 I’ve built a **Memory Card Game** & a **Medical Inventory System**
+- 🎮 I’ve built a **Memory Card Game** 
 - 🎨 I love combining tech & design — code that looks good too!
 
 ---
@@ -30,10 +30,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🧠 Memory Card Game](https://github.com/your-username/memory-card-game) | A Java Swing-based game to test memory skills | `Java`, `Swing` |
-| [💊 Medicine Inventory System](https://github.com/your-username/medicine-app) | Desktop software for medical wholesalers | `Java`, `SQLite` |
-| [🎨 Design Portfolio](https://github.com/your-username/design-showcase) | My graphic and UI design work | `Figma`, `Illustrator` |
 
----
 
 
 ---
